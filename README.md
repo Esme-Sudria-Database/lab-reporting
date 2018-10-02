@@ -42,7 +42,7 @@ docker-compose -f docker-compose.production.yml up
 
 6. open a browser on http://localhost:5000
 
-7. run the vm lab-postgresql, use it as datasource on redash with the database `transtats`
+7. run the vm [lab-postgresql](https://github.com/Esme-Sudria-Database/lab-postgresql), use it as datasource on redash with the database `transtats`
 
 Reference
 =========
